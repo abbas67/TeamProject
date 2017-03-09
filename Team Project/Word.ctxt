@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Word()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Word\r\n
+comment1.params=e\ g
+comment1.target=Word(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ alternative\ constructor\r\n
+comment2.params=n
+comment2.target=void\ setLeft(Word)
+comment3.params=n
+comment3.target=void\ setRight(Word)
+comment4.params=
+comment4.target=Word\ getleft()
+comment5.params=
+comment5.target=Word\ getright()
+comment6.params=
+comment6.target=java.lang.String\ getEnglish()
+comment7.params=
+comment7.target=java.lang.String\ getGerman()
+comment8.params=e
+comment8.target=void\ setEnglish(java.lang.String)
+comment9.params=g
+comment9.target=void\ setGerman(java.lang.String)
+numComments=10

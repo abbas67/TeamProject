@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=english\ german
+comment0.target=Dictionary(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dictionary\r\n
+comment1.params=
+comment1.target=Dictionary()
+comment2.params=english\ german
+comment2.target=void\ add(java.lang.String,\ java.lang.String)
+comment3.params=node\ english\ german
+comment3.target=Word\ add(Word,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ delete()
+comment5.params=
+comment5.target=void\ search()
+comment6.params=
+comment6.target=void\ load()
+comment7.params=
+comment7.target=void\ save()
+comment8.params=
+comment8.target=void\ compareWord()
+comment9.params=
+comment9.target=void\ calculateTimeTaken()
+numComments=10
