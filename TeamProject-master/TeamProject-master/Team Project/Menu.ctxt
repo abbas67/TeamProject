@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ processUserChoices()
+comment1.text=\r\n\ Used\ to\ process\ the\ User\ input\ in\ the\ menu\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ Displays\ the\ main\ menu\ \r\n
+comment3.params=
+comment3.target=void\ exit()
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ add()
+comment6.params=
+comment6.target=void\ search()
+numComments=7
