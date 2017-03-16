@@ -20,6 +20,9 @@ public class Word
         left = null;
         right = null;
         
+        english = "";
+        german = "";
+        
         
     }
     
@@ -29,10 +32,10 @@ public class Word
      */
     public Word(String e, String g)
     {
-        left = null;
-        right = null;
-        //english = e
-        //german = g
+        this.english = e;
+        this.german = g;
+        english = e;
+        german = g;
    
     }
     
@@ -50,7 +53,7 @@ public class Word
     }
     
     //getter for the left 
-    public Word getleft()
+    public Word getLeft()
     {
         return left;
     }
@@ -58,7 +61,7 @@ public class Word
     
     
     //getter for the right
-    public Word getright()
+    public Word getRight()
     {
         return right;
     }

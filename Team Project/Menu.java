@@ -8,6 +8,8 @@
 public class Menu
 {
     Dictionary myDictionary = new Dictionary();
+    private String english;
+    private String german;
     
     
     //main method public static void main(String args[])
@@ -45,11 +47,12 @@ public class Menu
             
             case 'A':
             case 'a':
-                       
+             
+            
             System.out.println("Please press Enter to continue");
             Genio.getString();
             System.out.print('\u000C');
-            
+            add();
            
             break;
             
@@ -66,7 +69,7 @@ public class Menu
             System.out.println("Please press Enter to continue");
             Genio.getString();
             System.out.print('\u000C');
-   
+            search();
             
             break;
             
@@ -79,6 +82,15 @@ public class Menu
             print();
             break;
             
+            case 'b':
+            case 'B':      
+            System.out.println("Please press Enter to continue");
+            Genio.getString();
+            System.out.print('\u000C');
+            System.out.println("Enter a file name");
+            String filename = Genio.getString();
+            myDictionary.save(filename);
+            break;
                         
             case 'Q':
             case 'q':
@@ -113,6 +125,7 @@ public class Menu
         System.out.println("D. Delete a word/phrase");
         System.out.println("S. To search for a word");
         System.out.println("P. Print a word from the dictionary");
+        System.out.println("B. Save");
         System.out.println("Q. Exit");
     }    
     
@@ -126,9 +139,36 @@ public class Menu
     
     public void print()
     {
-        
+        myDictionary.print();
     }
 
+    public void add()
+    {
+        String english;
+        String german;
+        System.out.println("Input the English word you'd like to add to the dictionary: ");
+        english = Genio.getString();
+
+        System.out.println("Input the German word you'd like to add to the dictionary: ");
+        german = Genio.getString();
+
+        myDictionary.add(english,german);
+        
+       // myDictionary.printTree();
+       //Genio.getString();
+
+    }
     
+   
+    
+    public void search()
+    {
+        String input;
+        System.out.println("Please type in the English word: ");
+        english = Genio.getString();
+        myDictionary.search(english);
+        System.out.println("The german translation is " + myDictionary.foundGerman());
+        
+    }
     
 }
