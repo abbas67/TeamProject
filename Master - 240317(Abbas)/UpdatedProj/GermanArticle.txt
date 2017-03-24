@@ -1,0 +1,41 @@
+Neben Lebensstil und Genen
+Wie stark hängt Krebs vom Zufall ab?
+Tag für Tag entstehen in unserem Körper zufällige Erbgutfehler, wenn sich Zellen teilen. Forscher haben jetzt berechnet, wie häufig sie zu Tumoren führen. Über manche Krebsarten entscheidet demnach fast nur der Zufall.
+
+Röntgenbild einer mit Krebs befallenen Lunge
+DPA
+Röntgenbild einer mit Krebs befallenen Lunge
+Freitag, 24.03.2017   13:35 Uhr Drucken NutzungsrechteFeedbackKommentieren
+Fast jeder zweite Deutsche erkrankt im Laufe seines Lebens an Krebs. Wer verschont bleibt, hängt ein Stück weit vom Lebensstil ab. Daneben entscheiden aber auch Gene und der Zufall über das Krebsrisiko. Die Frage ist nur: Welcher der Faktoren hat einen wie großen Einfluss?
+
+
+Schon vor zwei Jahren führte eine Studie zu dem Thema zu hitzigen Debatten: Damals berechneten zwei Mediziner anhand von US-Daten, dass das Krebsrisiko eines Menschen stärker vom Zufall abhängt als von seinem Erbgut und seiner Umwelt. Nun kommt eine weitere Analyse derselben Forscher mit weltweiten Daten zu einem ähnlichen Ergebnis. Demnach beruhen zwei Drittel aller Krebsmutationen auf zufälligen Fehlern bei der Teilung von Stammzellen.
+
+Dennoch sei der Einfluss der Lebensweise auf das Tumorrisiko für manche Krebsarten durchaus beträchtlich, betonen Cristian Tomasetti und Bert Vogelstein von der Johns Hopkins University in Baltimore in ihrem Beitrag in der Fachzeitschrift "Science". Dies gelte insbesondere für Tumoren an Lunge, Haut und Speiseröhre.
+
+Eine Zelle, die sich teilt, macht jedes Mal Fehler
+
+"Es ist bekannt, dass wir Umweltfaktoren wie Rauchen vermeiden müssen, um das Krebsrisiko zu senken", erklärt der Biostatistiker Tomasetti in einer Mitteilung seiner Universität. "Weniger bekannt ist, dass eine normale Zelle, die sich teilt und ihre DNA kopiert, jedes Mal mehrere Fehler macht." Die Stammzellen geben diese Mutationen zum Teil an Milliarden Tochterzellen weiter - und können so Ausgangspunkt sein für einen späteren Tumor.
+
+
+Bei jeder Zellteilung müssen rund 3,3 Milliarden Basenpaare der DNA kopiert werden. Dabei komme es rechnerisch zu etwa drei Fehlern, schreiben die Forscher. Um zu errechnen, welchen Anteil diese zufälligen Mutationen an der Entstehung von Krebs haben, untersuchten sie zunächst, wie häufig sich die Stammzellen bei 17 verschiedenen Krebsarten teilen. Das Ergebnis verglichen sie anschließend mit der Häufigkeit der jeweiligen Tumoren. Als Basis dienten ihnen unter anderem die Daten von Krebsregistern aus 69 Ländern, in denen zwei Drittel der Weltbevölkerung leben.
+
+Es zeigte sich ein deutlicher Zusammenhang: Tumoren treten demnach vor allem in Gewebetypen mit vielen Stammzellteilungen auf. Für alle Krebsarten gemittelt, so kalkuliert das Team, resultieren 66 Prozent der Tumormutationen aus zufälligen Kopierfehlern. 29 Prozent basieren den Daten zufolge auf Umwelteinflüssen wie etwa Lebensstil, und fünf Prozent gehen auf Erbfaktoren zurück. Allerdings variiert die Zusammensetzung der drei Faktoren stark von Krebsart zu Krebsart.
+
+Bei Tumoren von Prostata, Gehirn und Knochen beispielsweise beruhen demnach 95 Prozent der Mutationen auf zufälligen Fehlern, bei der Bauchspeicheldrüse 77 Prozent. Bei Lungenkrebs hingegen entscheiden Umweltfaktoren - insbesondere das Rauchen - über etwa 65 Prozent der Mutationen. Selbst hier machten zufällige Kopierfehler aber noch 35 Prozent aus, schreiben die Forscher. Meist müssen aber mehrere Mutationen zusammenkommen, ehe ein Tumor entsteht. Ein Großteil der Veränderungen in der DNA haben auch gar keine Folgen.
+
+Gute Früherkennung gefragt
+
+Epidemiologischen Berechnungen zufolge sind etwa 40 Prozent der Tumoren vermeidbar. Dies halten auch die US-Forscher trotz ihrer Berechnungen für möglich, schließlich könne eine umweltbedingte Mutation letztlich den Ausschlag geben, ob Krebs entsteht oder nicht. "Unsere Studien widersprechen der klassischen Epidemiologie nicht, sie ergänzen sie eher", schreibt das Team.
+
+Grundsätzlich empfehlen die Forscher zwei Formen der Krebsprävention:
+
+Bei jenen Tumorarten, bei denen die Umwelt eine wichtige Rolle spielt, solle man Tipps zur Vorbeugung geben.
+Bei den anderen Tumoren, die vor allem vom Zufall abhängen, sei dagegen eine gute Früherkennung besonders gefragt.
+"Ein Verständnis des Krebsrisikos, das Pech ignorieren würde, wäre ebenso unangebracht wie eines, das Umwelt- und Erbfaktoren nicht berücksichtigen würde", schreibt Martin Nowak von der Harvard University in einem "Science"-Kommentar. "Die erste Analyse von Tomasetti und Vogelstein hat schon viele Diskussionen verursacht, und die neuen Resultate werden das ebenfalls tun. Die Ergebnisse zeigen einen eindeutigen Bedarf, Krebs mathematisch präzise zu verstehen."
+
+"Die allermeisten Mutationen spielen wahrscheinlich keine Rolle"
+
+Darauf verweist auch Andreas Trumpp vom Deutschen Krebsforschungszentrum (DKFZ) in Heidelberg. "Mathematisch verstehen wir die Entwicklung eines Tumors im Detail noch nicht", sagt der Direktor des Heidelberger Stammzellinstituts HI-STEM. "Dazu ist die Datenlage bisher zu dünn." Dennoch weise die Studie mit ihrer sehr großen Datenbasis darauf hin, dass die Zahl der Stammzellteilungen das Krebsrisiko stark beeinflusst.
+
+"Die allermeisten Mutationen spielen wahrscheinlich keine Rolle", erläutert Trumpp. "Aber wenn die Mutation einer Stammzelle ein wichtiges Gen betrifft, wird sie möglicherweise an Milliarden Nachkommen lebenslang weitergegeben und kann die Saat für eine Krebserkrankung bilden." Wie groß die Rolle von Umwelt, Erbfaktoren und Zellteilungen sei, hänge letztlich von der Tumorart ab.

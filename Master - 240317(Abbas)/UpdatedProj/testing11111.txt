@@ -1,0 +1,18 @@
+Bush, Mildred: Final score is 225.0 
+The average of the scores are: 45.0
+ 
+Snooks, Fred: Final score is 115.0 
+The average of the scores are: 23.0
+ 
+Callar, Morvern: Final score is 325.0 
+The average of the scores are: 65.0
+ 
+Powell, Colin: Final score is 170.0 
+The average of the scores are: 34.0
+ 
+Blair, Tony: Final score is 335.0 
+The average of the scores are: 67.0
+ 
+Gregor, Peter: Final score is 495.0 
+The average of the scores are: 99.0
+ 
